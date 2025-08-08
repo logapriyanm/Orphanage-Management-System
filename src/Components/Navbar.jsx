@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Logo from '../assets/images/logo.png';
+import Logo from '../assets/Images/logo.png';
 import { RiMenuFoldFill, RiContactsLine } from "react-icons/ri";
 import { IoHomeOutline } from "react-icons/io5";
 import { GoProjectRoadmap } from "react-icons/go";
