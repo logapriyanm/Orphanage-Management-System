@@ -9,7 +9,7 @@ import { VscTools } from "react-icons/vsc";
 
 // Feedback Images
 import Profile1 from "./Profile1.jpg";
-import Profile2 from "./Profile2.jpg";
+import Profile2 from "./profile2.jpg";
 import Profile3 from "./Profile3.jpg";
 
 // Leadership team Images
